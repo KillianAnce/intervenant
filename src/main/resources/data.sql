@@ -1,0 +1,2 @@
+INSERT INTO Intervenant (id, nom, prenom, commune, codepostal) VALUES ('8c96e94b-c185-4113-abf8-0611c040d873','Ance', 'Killian', 'Nancy', '54000')
+INSERT INTO Intervenant (id, nom, prenom, commune, codepostal) VALUES ('8c96e94b-c185-4113-abf8-0611c040d875','Test', 'BLALAL', 'Nancy','54000')
